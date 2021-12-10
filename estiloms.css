@@ -1,0 +1,23 @@
+{
+	padding: 0;
+	margin: 0;
+}
+nav ul {
+	background-color: #fae8f7;
+	width: 100%;
+	list-style: none;
+	text-align: center;
+}
+nav li {
+	display: inline-flex;
+}
+nav a {
+	font-family: 'Poppins', sans-serif;
+	text-decoration: none;
+	color: deeppink;
+	padding: 10px;
+	width: 150px;
+}
+nav li:hover{
+	background-color: white
+}
